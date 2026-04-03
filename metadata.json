@@ -1,0 +1,5 @@
+{
+  "name": "Rosni AI",
+  "description": "A smart, crazy, and friendly Hinglish AI assistant with a filmy personality and voice capabilities.",
+  "requestFramePermissions": ["microphone"]
+}
